@@ -7,10 +7,6 @@ public class Main {
 
         // B
 
-        // E
-
-        // F
-
 
     }
 }
